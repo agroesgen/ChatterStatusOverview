@@ -1,0 +1,4 @@
+# ChatterStatusScrape .gitignore
+# Ignore Python cache files
+*.json
+chatters.md
